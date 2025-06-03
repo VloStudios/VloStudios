@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VloStudios
-- 👀 I’m interested in Python games, apps and nearly everythin that is Python
-- 🌱 I’m currently learning Python, JavaScript, Kotlin and Javs
+- 👀 I’m interested in Python games, apps and nearly everything that is Python
+- 🌱 I’m currently learning Python, JavaScript, Kotlin and Java
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me: one of my game's Discord Server: https://discord.gg/zGHajyHzjx
 - 😄 Pronouns: he/him/his
